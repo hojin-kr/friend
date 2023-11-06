@@ -61,3 +61,9 @@ func (friend *Friend) FilteredList(colume string, operation string, value string
 	friends = datastore.FilteredList(&_friend, colume, operation, value, colume2, operation2, value2, limit)
 	return friends
 }
+
+func (friend *Friend) GetFriend() {
+	datastore := datastore.GcpDatastore{}
+	datastore.Init()
+	datastore.GetEntity(friend.Friend_ID, friend)
+}
