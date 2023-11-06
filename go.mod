@@ -4,7 +4,7 @@ go 1.21.0
 
 require (
 	github.com/google/uuid v1.3.1
-	github.com/hojin-kr/datastore v0.0.0-20231106164221-3aac1ed50f82
+	github.com/hojin-kr/datastore v0.0.0-20231106171832-67afe6c73454
 	github.com/stretchr/testify v1.8.1
 )
 

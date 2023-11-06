@@ -54,10 +54,10 @@ func (friend *Friend) BlockFriend() {
 }
 
 // filterdlist
-func (friend *Friend) FilteredList(colume string, operation string, value string, limit int) (friends interface{}) {
+func (friend *Friend) FilteredList(colume string, operation string, value string, colume2 string, operation2 string, value2 string, limit int) (friends interface{}) {
 	datastore := datastore.GcpDatastore{}
 	datastore.Init()
 	var _friend Friend
-	friends = datastore.FilteredList(&_friend, colume, operation, value, limit)
+	friends = datastore.FilteredList(&_friend, colume, operation, value, colume2, operation2, value2, limit)
 	return friends
 }

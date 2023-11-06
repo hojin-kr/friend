@@ -58,6 +58,8 @@ github.com/hojin-kr/datastore v0.0.0-20231106143712-aa5481a06b54 h1:93bupgIB+roo
 github.com/hojin-kr/datastore v0.0.0-20231106143712-aa5481a06b54/go.mod h1:wrdJRP7tcStaYhrvGwczx9hKTTP7RfsthB2Qzhliblg=
 github.com/hojin-kr/datastore v0.0.0-20231106164221-3aac1ed50f82 h1:jBHw8dkLAsI+Am3ynkt7trqZulpjT2iiYPBjyFB97So=
 github.com/hojin-kr/datastore v0.0.0-20231106164221-3aac1ed50f82/go.mod h1:wrdJRP7tcStaYhrvGwczx9hKTTP7RfsthB2Qzhliblg=
+github.com/hojin-kr/datastore v0.0.0-20231106171832-67afe6c73454 h1:TGZhQrICxkB2uqHA8C46UL+fs79G02z9S3FQ9p6Hvro=
+github.com/hojin-kr/datastore v0.0.0-20231106171832-67afe6c73454/go.mod h1:wrdJRP7tcStaYhrvGwczx9hKTTP7RfsthB2Qzhliblg=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:xMI15A0UPsDsEKsMN9yxemIoYk6Tm2C1GtYGdfGttqA=
